@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix OCR Chuyên Nghiệp - Sao Chép Nguyên Văn",
+  "description": "Ứng dụng OCR chuyển hình ảnh sang văn bản với độ chính xác nguyên bản tuyệt đối, bảo toàn lỗi chính tả và dấu tiếng Việt, kiểm tra 2 lần và xuất Word A4 chuẩn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
